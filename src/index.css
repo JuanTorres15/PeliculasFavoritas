@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Francois One", sans-serif;
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
